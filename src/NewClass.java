@@ -11,4 +11,11 @@ public class NewClass {
     public void main(String[] args){
         System.out.println("hello!!!");
     }
+
+    public void printer(String message){
+        System.out.println("messageは"+message);
+    }
+    
 }
+
+
