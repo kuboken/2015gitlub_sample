@@ -8,5 +8,7 @@
  * @author maloch
  */
 public class NewClass {
-    System.out.println("hello");
+    public void main(String[] args){
+        System.out.println("hello!!!");
+    }
 }
